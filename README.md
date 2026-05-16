@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="upllogo_og.jpg" width="100%">
+</p>
+
 # UPL Publications
 
 Public specifications, research publications, operational findings, comparative analyses, exploratory models, and implementation-oriented material related to Universal Process Law (UPL), recursive continuity systems, realization dynamics, observability, adaptive governance, semantic topology, continuity-aware architectures, and evolving AI systems.
