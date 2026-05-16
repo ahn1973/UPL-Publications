@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="upllogo_og.jpg" width="100%">
+  <img src="upllogo_og.png" width="100%">
 </p>
 
 # UPL Publications
